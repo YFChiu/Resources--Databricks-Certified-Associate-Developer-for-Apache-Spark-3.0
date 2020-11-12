@@ -16,7 +16,7 @@
     * Book: learning spark 2 (https://github.com/databricks/LearningSparkV2)
     * ***https://gofastdemostorageaccount.blob.core.windows.net/databricks-notebooks/Comprehensive_study_guide_for_Spark_Developer_Certification.html
     * https://blog.usejournal.com/spark-study-notes-core-concepts-visualized-5256c44e4090
-5. Sample questions:
+5. Sample questions:(notebooks uploaded)
     * https://github.com/vivek-bombatkar/Databricks-Apache-Spark-2X-Certified-Developer/blob/master/sampleQuestions.md
     * https://databricks-prod-cloudfront.cloud.databricks.com/public/793177bc53e528530b06c78a4fa0e086/0/6221173/100020/latest.html
     * https://www.simplilearn.com/spark-and-scala-exam-questions-free-practice-test#will-this-spark-online-test-in-clearing-the-actual-certification-exam
