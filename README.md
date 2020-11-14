@@ -1,4 +1,4 @@
-# Resources-Databricks-Certified-Associate-Developer-for-Apache-Spark-3.0 (python)
+# Resources: Databricks-Certified-Associate-Developer-for-Apache-Spark-3.0 (python)
 
 ![certification](https://academy.databricks.com/award/certification/a23565e8-eb8b-391b-80dd-cfb0cd26274e/view-ext)<br>
 
